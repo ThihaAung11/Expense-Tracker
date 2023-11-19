@@ -1,0 +1,30 @@
+# Authentication
+--------------
+- User
+    (a)firstName
+    (b)lastName
+    (c)password
+    (d)email
+    (e)create_time
+
+# DashBoard
+---------------
+
+# Record
+--------------
+- Expense
+    (a) amount
+    (b) category
+    (c) datetime
+    (d) recorderd by (user-id)
+    
+- Category
+    (a) name
+    (b) datatime
+    (c) added by (user-id)
+
+- Budget
+    (a) amount
+    (b) from-date
+    (c) to-date
+    (d) user-id
